@@ -14,4 +14,4 @@ class Solution:
         newStone = abs(stoneX - stoneY)
         if newStone > 0:
             stones.append(newStone)
-        return this.lastStoneWeight(stones)
+        return self.lastStoneWeight(stones)
