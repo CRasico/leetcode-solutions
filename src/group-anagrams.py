@@ -15,3 +15,4 @@ class Solution:
             anagrams_dict[hash_total] = [item]
 
         return anagrams_dict.values() 
+        

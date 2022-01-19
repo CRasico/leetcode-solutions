@@ -48,3 +48,4 @@ class Solution(object):
         """
         self.memory = {}
         return self.jumpRecursive(nums, 0)
+        

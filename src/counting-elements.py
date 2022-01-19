@@ -14,3 +14,4 @@ class Solution:
                 count += map_seen[key - 1]
 
         return count
+        

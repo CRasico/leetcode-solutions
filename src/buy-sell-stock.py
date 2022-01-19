@@ -15,3 +15,4 @@ class Solution:
             peak = prices[i]
             maxProfit = peak - valley
         return maxProfit
+        
