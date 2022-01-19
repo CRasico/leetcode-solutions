@@ -1,5 +1,3 @@
-from typing import List
-
 class MinStackNode:
     def __init__(self, x: int):
         self.value = x
